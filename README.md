@@ -4,7 +4,7 @@ Trước sự xuất hiện của VNSky với đầu số 0777 vào tháng 7/202
 
 |  Nhà mạng | Đầu số  | Hạ tầng |
 | ------------ | ------------ | ------------ |
-| Wintel (Reddi)  | 055  | Vinphone (VNPT) |
+| Wintel (Reddi)  | 055  | Vinaphone (VNPT) |
 | VNSky  | 0777  | Mobifone |
 | Local (ASIM) | 089 | Mobifone |
 | iTel | 087 | Vinaphone (VNPT) |
