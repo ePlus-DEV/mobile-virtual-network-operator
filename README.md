@@ -23,6 +23,12 @@
 - **Đầu số:** Các dải 0777, 0775 và 0707 là dải số được thương hiệu giới thiệu, không hàm ý toàn bộ đầu số 077 hoặc 070 thuộc riêng một MVNO. Việc chuyển mạng giữ số cũng khiến không thể xác định chắc chắn mạng đang sử dụng chỉ bằng đầu số.
 - Việt Nam có **4 nhà mạng sở hữu hạ tầng vô tuyến và tần số** được nhắc đến trong các báo cáo thị trường: Viettel, VinaPhone, MobiFone và Vietnamobile. Các nhà mạng này **không** nằm trong bảng MVNO.
 
+## Danh sách gói cước (đối chiếu 15/11/2026)
+
+Đã bổ sung **[bảng gói cước MVNO Việt Nam](GOI-CUOC.md)** với mức giá, chu kỳ, data, ưu đãi thoại, điều kiện hòa mạng/gia hạn và link nguồn chính thức cho **Wintel, iTel, VNSKY, Local, FPT SIM, SkyFi**. Riêng **Pottel** đã có SIM du lịch nhưng **chưa xác minh được bảng giá/mã gói công khai**; không tự suy đoán giá hoặc coi đầu số 075 đã mở bán.
+
+> **Lưu ý khi so sánh:** phí gói theo tháng/30 ngày **khác** giá mua SIM mới; ưu đãi SIM mới cũng không mặc nhiên áp dụng ở các kỳ gia hạn. Hãy xác minh chính sách với nhà mạng trước khi đăng ký.
+
 ## Nguồn đối chiếu
 
 Ưu tiên nguồn từ doanh nghiệp cung cấp dịch vụ và đối tác hạ tầng; dùng tin báo chí làm nguồn đối chiếu khi cần.
